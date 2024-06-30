@@ -34,3 +34,10 @@ public class Task1 {
     }
 }
 ```
+# Education
+* Narxoz University (2023-2027)
+  
+# Languages
+* Qazaq (native speaker)
+* Russian (conversational level)
+* English (B1)
