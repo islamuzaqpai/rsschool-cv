@@ -1,1 +1,1 @@
-https://islamuzaqpai.github.io/rsschool-cv/cv
+https://islamuzaqpai.github.io/rsschool-cv/
